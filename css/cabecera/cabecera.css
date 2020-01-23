@@ -1,0 +1,7 @@
+/* Colorea todo el fondo de azul.*/
+* {
+    background-color: blue;
+    width: 100%;
+    height: 80px;
+    size: 80px;
+}
